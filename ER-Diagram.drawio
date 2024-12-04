@@ -121,7 +121,7 @@
         <mxCell id="ILBL_l5zC6226JqJN1Jq-13" value="Customer" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ILBL_l5zC6226JqJN1Jq-14" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-13">
+        <mxCell id="ILBL_l5zC6226JqJN1Jq-14" value="+Customer-ID&lt;br&gt;+Address&lt;br&gt;+Phone Number&lt;div&gt;+Blueprint&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-13">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-15" value="Employee" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -131,7 +131,9 @@
           <mxGeometry y="50" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-17" value="Weld Shop" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="20" width="160" height="180" as="geometry" />
+          <mxGeometry x="390" y="20" width="160" height="180" as="geometry">
+            <mxRectangle x="390" y="20" width="110" height="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-18" value="+Top&#39;s 1&lt;br&gt;+Top&#39;s 2&lt;br&gt;+Wall&#39;s 1&lt;div&gt;+Wall&#39;s 2&lt;/div&gt;&lt;div&gt;+Front&#39;s 1&lt;/div&gt;&lt;div&gt;+Front&#39;s 2&lt;/div&gt;&lt;div&gt;+Cell-Jig&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-17">
           <mxGeometry y="50" width="160" height="130" as="geometry" />
