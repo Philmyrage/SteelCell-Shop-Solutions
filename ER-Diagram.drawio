@@ -95,28 +95,28 @@
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-5" value="Top" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="160" height="130" as="geometry" />
+          <mxGeometry x="200" y="210" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ILBL_l5zC6226JqJN1Jq-6" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-5">
-          <mxGeometry y="50" width="160" height="80" as="geometry" />
+        <mxCell id="ILBL_l5zC6226JqJN1Jq-6" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Production-Department&lt;br&gt;&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Production-Date&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-5">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-7" value="Long Wall" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="240" width="160" height="130" as="geometry" />
+          <mxGeometry x="380" y="210" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ILBL_l5zC6226JqJN1Jq-8" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-7">
-          <mxGeometry y="50" width="160" height="80" as="geometry" />
+        <mxCell id="ILBL_l5zC6226JqJN1Jq-8" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Production-Department&lt;br&gt;&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Production-Date&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-7">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-9" value="Back Wall" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="160" height="130" as="geometry" />
+          <mxGeometry x="560" y="210" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ILBL_l5zC6226JqJN1Jq-10" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-9">
-          <mxGeometry y="50" width="160" height="80" as="geometry" />
+        <mxCell id="ILBL_l5zC6226JqJN1Jq-10" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Production-Department&lt;br&gt;&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Production-Date&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-9">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-11" value="Front" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="160" height="130" as="geometry" />
+          <mxGeometry x="20" y="210" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ILBL_l5zC6226JqJN1Jq-12" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-11">
-          <mxGeometry y="50" width="160" height="80" as="geometry" />
+        <mxCell id="ILBL_l5zC6226JqJN1Jq-12" value="+Job-Number&lt;br&gt;+Part-ID-Number&lt;br&gt;+Blueprint&lt;div&gt;+Production-Department&lt;br&gt;&lt;div&gt;+Time-Production-Start&lt;/div&gt;&lt;div&gt;+Time-Production-End&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+Production-Date&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ILBL_l5zC6226JqJN1Jq-11">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ILBL_l5zC6226JqJN1Jq-13" value="Customer" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="160" height="120" as="geometry" />
